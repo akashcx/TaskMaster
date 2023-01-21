@@ -1,4 +1,4 @@
-# To-do list Website
+# To-do list Website (React)
 
 ![task-1](https://user-images.githubusercontent.com/59217041/213845190-9a09efe1-eec4-4cd4-aa48-066097ebf9a0.png)
 
